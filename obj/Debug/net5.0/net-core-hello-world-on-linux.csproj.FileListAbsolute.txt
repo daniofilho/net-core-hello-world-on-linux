@@ -1,0 +1,16 @@
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/bin/Debug/net5.0/net-core-hello-world-on-linux
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/bin/Debug/net5.0/net-core-hello-world-on-linux.deps.json
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/bin/Debug/net5.0/net-core-hello-world-on-linux.runtimeconfig.json
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/bin/Debug/net5.0/net-core-hello-world-on-linux.runtimeconfig.dev.json
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/bin/Debug/net5.0/net-core-hello-world-on-linux.dll
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/bin/Debug/net5.0/ref/net-core-hello-world-on-linux.dll
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/bin/Debug/net5.0/net-core-hello-world-on-linux.pdb
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.csprojAssemblyReference.cache
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.AssemblyInfoInputs.cache
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.AssemblyInfo.cs
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.csproj.CoreCompileInputs.cache
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.dll
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/ref/net-core-hello-world-on-linux.dll
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.pdb
+/home/daniofilho/Trabalho/Github/net-core-hello-world-on-linux/obj/Debug/net5.0/net-core-hello-world-on-linux.genruntimeconfig.cache
